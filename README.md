@@ -1,4 +1,4 @@
-# BudgetTracker2.0
+#BudgetTracker2.0
 New version of BudgetTracker - a basic budget tracking program. Written in Python
 
 BudgetTracker2.0 is a cleaned up version of a previous BudgetTracker program. 
